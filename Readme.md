@@ -41,6 +41,11 @@ il est impossible de passer de 2 vers 6    ou 6 vers 2   (2 <----> 6)
 Au moment ou un des joueur arrive a aligner ses pieces , le Jeu s'arreterai automatiquement
 c'est la VICTOIRE 
 
+        | 1 | 1 | 1 |
+        | 0 | 2 | 0 |
+        | 2 | 2 | 2 |
+
+
 Ainsi se deroule le programme, 
 Au cas ou vous voudrez mettre un commentaire a propos, je serai ravi de les recevoirs sur mariustsiorimbola@gmail.com
-mMerci pour la lecture et bon JEUX xD
+Merci pour la lecture et bon JEUX xD
